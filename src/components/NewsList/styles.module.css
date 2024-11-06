@@ -1,0 +1,7 @@
+/* background-color можно подкрасить потому что его не видно */
+.list {
+	width: 100%;
+	display: flex;
+	flex-direction: column;
+	gap: 24px;
+}
